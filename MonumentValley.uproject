@@ -11,12 +11,5 @@
 				"Editor"
 			]
 		}
-	],
-	"Modules": [
-		{
-			"Name": "MonumentValley",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
 	]
 }
