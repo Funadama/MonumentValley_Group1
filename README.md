@@ -74,9 +74,12 @@ Environmental Assets (Towers, Bridges, Pillars) and UV-Unwrapping/Texturing of s
 <img height="400" src="https://github.com/user-attachments/assets/dc65dd0c-0d0a-406f-9721-e757ea89d191" />
 <img height="400" src="https://github.com/user-attachments/assets/3c971730-e3a5-444c-82ed-1576f27d5c69" />
 <img height="400" src="https://github.com/user-attachments/assets/bf069d05-e386-460a-b04b-37428bdcacb4" />
-Environmental Animations (Lever)
-![2026-03-0212-20-40-ezgif com-crop-video](https://github.com/user-attachments/assets/7f0af3de-e094-424e-9815-d2d7dff0d666)
-3D Main Character Model based on 2D concept art and their UV-Unwrapping.
+* Environmental Animations (Lever)
+
+<img height="400" src="https://github.com/user-attachments/assets/7f0af3de-e094-424e-9815-d2d7dff0d666" />
+
+* 3D Main Character Model based on 2D concept art and their UV-Unwrapping.
+
 <img height="400" src="https://github.com/user-attachments/assets/51a25dc3-da18-44fe-81a2-4d29d6e2757e" />
 <img height="400" src="https://github.com/user-attachments/assets/9b6ac920-5e5f-4011-b643-d7684acc380c" />
 
